@@ -1,0 +1,1 @@
+I project to learn how web scraping works since it was a topic i wanted to explore for long. This application obtains data from a forum for people to post housing offers and shows them on a custom application.
